@@ -1,0 +1,1 @@
+SELECT * FROM dbo.jadwal_mata_kuliah WHERE kode_mata_kuliah IN ('T11O1', 'SI201', 'TS301');
