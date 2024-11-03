@@ -1,1 +1,1 @@
-SELECT DISTINCT dbo.dpp_mahasiswa ORDER BY jumlah_pembayaran DESC;
+SELECT DISTINCT TOP(5) jumlah_pembayaran FROM dpp_mahasiswa ORDER BY jumlah_pembayaran DESC

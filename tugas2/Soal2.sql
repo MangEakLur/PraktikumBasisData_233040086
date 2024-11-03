@@ -1,1 +1,1 @@
-SELECT * FROM dbo.mahasiswa WHERE jurusan ='Teknik Informatika', alamat = 'Jl Merdeka';
+SELECT * FROM dbo.mahasiswa WHERE jurusan ='Teknik Informatika' AND alamat LIKE '%Merdeka%'

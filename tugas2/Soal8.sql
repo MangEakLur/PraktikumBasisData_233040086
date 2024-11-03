@@ -1,1 +1,1 @@
-SELECT * FROM dbo.mahasiswa WHERE jurusan = 'teknik informatik';
+SELECT * FROM dbo.mahasiswa WHERE jurusan = 'teknik informatika' AND  alamat LIKE '%Sudirman%' AND tahun_masuk BETWEEN 2018 AND 2020
