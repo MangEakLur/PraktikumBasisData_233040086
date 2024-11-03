@@ -1,6 +1,6 @@
 INSERT INTO jurusan(nama_jurusan)
-VALUES (19232323),
-	   (20232323),
-	   (21232323),
-	   (22232323),
-	   (23232323);
+VALUES (1, 'Teknik Informatika'),
+	   (2, 'Teknik Industri'),
+	   (3, 'Teknik Lingkungan'),
+	   (4, 'Teknik Mesin'),
+	   (5, 'Teknologi Pangan');
